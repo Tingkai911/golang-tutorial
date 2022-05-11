@@ -2,7 +2,6 @@ Udemy course: https://www.udemy.com/course/go-the-complete-developers-guide/
 Git sample code: https://github.com/StephenGrider/GoCasts
 
 How to Access Course Diagrams:
-
 1. Go to https://github.com/StephenGrider/GoCasts/tree/master/diagrams
 2. Open the folder containing the set of diagrams you want to edit
 3. Click on the ‘.xml’ file
