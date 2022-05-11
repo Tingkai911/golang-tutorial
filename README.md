@@ -15,3 +15,5 @@ How to Access Course Diagrams:
 
 More tutorials (bonus for defer, panic and recover):
 https://www.youtube.com/watch?v=YS4e4q9oBaU
+
+:)
