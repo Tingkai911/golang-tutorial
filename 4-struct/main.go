@@ -45,7 +45,7 @@ func main() {
 // IMPORTANT!!!
 // Golang is a pass-by-value language -> pass copies in receivers and arguments
 // Turn "address" into "value" with "*address"
-// Turn "value" into "address with "&value
+// Turn "value" into "address with "&value"
 // Arrays -> primitive data structure, cannot be resized
 // Slices -> can grow or shrink, contain a pointer to the head of the array
 // Value type -> int, float, string, bool, struct (use pointers if you want to change the underlying value)
